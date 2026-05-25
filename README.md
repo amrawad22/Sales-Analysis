@@ -32,6 +32,9 @@ Interactive Tableau dashboard featuring:
 - Top-selling products and category analysis
 - Regional sales and profit comparison
 - Discount and shipping cost impact on profitability
+## 📊 Tableau Dashboard
+
+[View Interactive Dashboard](https://public.tableau.com/views/SalesAnalysisProject_17300263789400/SalesDetails?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
